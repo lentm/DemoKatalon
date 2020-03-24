@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_EffectiveInterestRateTypeDetails</name>
+   <tag></tag>
+   <elementGuidId>14b2c67d-1655-42e1-ade7-5aa77515afdd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[contains(@id,&quot;interestRateDetails:peggingInfo:configuredPeggingTypeCode&quot;)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[contains(@id,&quot;interestRateDetails:peggingInfo:configuredPeggingTypeCode&quot;)]</value>
+   </webElementProperties>
+</WebElementEntity>

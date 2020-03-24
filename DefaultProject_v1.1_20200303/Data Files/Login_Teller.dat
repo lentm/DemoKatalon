@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Login_Teller</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>e2524b09-26db-4f95-a47f-f395b8165f3e</dataFileGUID>
+   <dataSourceUrl>jdbc:sqlserver://172.24.175.11:1433;databaseName=TestData_UATA</dataSourceUrl>
+   <driver>DBData</driver>
+   <isInternalPath>false</isInternalPath>
+   <password>QGRtaW5AMTIz</password>
+   <query>select * from TD_Login where env='UATA' and role='Teller' and upper(username) = 'BR3USER037'</query>
+   <secureUserAccount>true</secureUserAccount>
+   <sheetName></sheetName>
+   <user>sa</user>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

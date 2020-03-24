@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Login_Supervisor</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>508be0f8-9fe3-47c4-bf7f-9fc041b44607</dataFileGUID>
+   <dataSourceUrl>jdbc:sqlserver://172.24.175.11:1433;databaseName=TestData_UATA</dataSourceUrl>
+   <driver>DBData</driver>
+   <isInternalPath>false</isInternalPath>
+   <password>QGRtaW5AMTIz</password>
+   <query>select * from TD_Login where env='UATA' and role='Supervisor' and upper(username) = 'BR3USER040'</query>
+   <secureUserAccount>true</secureUserAccount>
+   <sheetName></sheetName>
+   <user>sa</user>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

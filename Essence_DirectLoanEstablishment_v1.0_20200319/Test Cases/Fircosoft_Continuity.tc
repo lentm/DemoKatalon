@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Fircosoft_Continuity</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>646d4adc-44c8-4f34-9fc1-c02bb754e625</testCaseGuid>
+   <variable>
+      <defaultValue>'UATA2'</defaultValue>
+      <description></description>
+      <id>a1846266-802c-4783-98cb-2255cdfdae1f</id>
+      <masked>false</masked>
+      <name>customerName</name>
+   </variable>
+   <variable>
+      <defaultValue>'http://172.24.197.14:8080/continuity/en/logout/'</defaultValue>
+      <description></description>
+      <id>2c3417e0-1245-4ee3-beac-d283ff452d34</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'Nguyen1'</defaultValue>
+      <description></description>
+      <id>32fb8107-ae19-44b6-ac91-b556d02e5198</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Nguyen1!'</defaultValue>
+      <description></description>
+      <id>daaaa6be-5c98-4822-ae11-b03cc031c3ee</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

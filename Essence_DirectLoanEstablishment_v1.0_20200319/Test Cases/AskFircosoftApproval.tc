@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AskFircosoftApproval</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6e080af3-8eda-40d7-9c4f-4ba52c577f40</testCaseGuid>
+   <variable>
+      <defaultValue>'http://172.24.197.11:9082/uxp/rt/html/login.html?locale=en-gb'</defaultValue>
+      <description></description>
+      <id>14c78d55-b227-4059-be15-1ef7438e454c</id>
+      <masked>false</masked>
+      <name>tel_url</name>
+   </variable>
+   <variable>
+      <defaultValue>'br3user048'</defaultValue>
+      <description></description>
+      <id>1fda0112-21b8-4858-a74a-9463ba994c0b</id>
+      <masked>false</masked>
+      <name>tel_username</name>
+   </variable>
+   <variable>
+      <defaultValue>'@dmin@123'</defaultValue>
+      <description></description>
+      <id>65c03e5e-908c-40bd-9014-9dbb3eb7b862</id>
+      <masked>false</masked>
+      <name>tel_password</name>
+   </variable>
+   <variable>
+      <defaultValue>'BR3USER050'</defaultValue>
+      <description></description>
+      <id>c2d7832f-def8-4008-b743-9d23ce067808</id>
+      <masked>false</masked>
+      <name>supervisorUsername</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>test</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>40bc1bc8-e601-4c95-bf4b-3bc1d07837d2</testSuiteGuid>
+   <testCaseLink>
+      <guid>8420a27f-3531-4c60-99cb-377f4416667c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/ApprovalProcess</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>3918025b-6148-4965-ad82-48245f3ff371</id>
+         <iterationEntity>
+            <iterationType>SPECIFIC</iterationType>
+            <value>4</value>
+         </iterationEntity>
+         <testDataId>Data Files/Login_Supervisor</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>032b271c-ad4a-4186-bf4c-c84100c25afb</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3918025b-6148-4965-ad82-48245f3ff371</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>url</value>
+         <variableId>43dae213-81b2-4f57-9b6b-7393434a2af6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3918025b-6148-4965-ad82-48245f3ff371</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>16689ff6-de97-4f07-8459-87fd0802e2ac</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3918025b-6148-4965-ad82-48245f3ff371</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>f6d408cb-97a3-4847-8c75-cf53603a9b76</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

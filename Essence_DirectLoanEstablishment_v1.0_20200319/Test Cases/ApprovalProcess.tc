@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ApprovalProcess</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fda4c879-9d85-432f-95bc-b0a7aa152791</testCaseGuid>
+   <variable>
+      <defaultValue>'Referral'</defaultValue>
+      <description></description>
+      <id>032b271c-ad4a-4186-bf4c-c84100c25afb</id>
+      <masked>false</masked>
+      <name>description</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>43dae213-81b2-4f57-9b6b-7393434a2af6</id>
+      <masked>false</masked>
+      <name>sup_url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>16689ff6-de97-4f07-8459-87fd0802e2ac</id>
+      <masked>false</masked>
+      <name>sup_username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f6d408cb-97a3-4847-8c75-cf53603a9b76</id>
+      <masked>false</masked>
+      <name>sup_password</name>
+   </variable>
+</TestCaseEntity>

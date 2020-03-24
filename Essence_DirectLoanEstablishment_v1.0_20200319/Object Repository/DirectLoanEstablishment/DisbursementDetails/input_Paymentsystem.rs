@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Paymentsystem</name>
+   <tag></tag>
+   <elementGuidId>29512b49-d973-4618-946e-546afa26db67</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@name=&quot;03PaymentScheme&quot;]/preceding-sibling::input[contains(@id,&quot;PaymentScheme&quot;)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@name=&quot;03PaymentScheme&quot;]/preceding-sibling::input[contains(@id,&quot;PaymentScheme&quot;)]</value>
+   </webElementProperties>
+</WebElementEntity>

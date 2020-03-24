@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user: user31
+Pass: user31</description>
+   <name>Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4ede424d-de25-44af-a0c1-ee0109af264f</testCaseGuid>
+   <variable>
+      <defaultValue>'http://172.24.197.11:9082/uxp/rt/html/login.html?locale=en-gb'</defaultValue>
+      <description></description>
+      <id>34f233a4-6ace-4ddd-a9aa-d430b2327f5b</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'BR3USER036'</defaultValue>
+      <description></description>
+      <id>b765a217-c495-4ae5-bbee-f75f5600819c</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'@dmin@123'</defaultValue>
+      <description></description>
+      <id>1ba0032d-3e79-41ba-9ea6-2e90af5747d9</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

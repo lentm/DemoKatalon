@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AfterClickAskForApproval</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7d2c09f9-ec2b-4858-bc49-b0b712c2ddd6</testCaseGuid>
+   <variable>
+      <defaultValue>'BR3USER036'</defaultValue>
+      <description></description>
+      <id>5ae666d1-a567-4923-bc39-6519d8904a35</id>
+      <masked>false</masked>
+      <name>username_teller</name>
+   </variable>
+   <variable>
+      <defaultValue>'@dmin@123'</defaultValue>
+      <description></description>
+      <id>a82fb700-e3a0-497a-b9da-8cdddf632734</id>
+      <masked>false</masked>
+      <name>password_teller</name>
+   </variable>
+   <variable>
+      <defaultValue>'Yes'</defaultValue>
+      <description></description>
+      <id>d6ea8d54-9c90-4959-a060-74b58c193a6c</id>
+      <masked>false</masked>
+      <name>active</name>
+   </variable>
+   <variable>
+      <defaultValue>'BR3USER040'</defaultValue>
+      <description></description>
+      <id>f591d1df-f0db-464c-9251-9892cce4d384</id>
+      <masked>false</masked>
+      <name>username_supervisor</name>
+   </variable>
+   <variable>
+      <defaultValue>'@dmin@123'</defaultValue>
+      <description></description>
+      <id>640eb1a7-81ae-41cd-8d57-7b910399a7ce</id>
+      <masked>false</masked>
+      <name>password_supervisor</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>EducationLoan_Amort_MMK</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>92d70ac9-b1a0-41d9-b9b3-bd96b779516e</dataFileGUID>
+   <dataSourceUrl>jdbc:sqlserver://172.24.175.11:1433;databaseName=TestData_UATA</dataSourceUrl>
+   <driver>DBData</driver>
+   <isInternalPath>false</isInternalPath>
+   <password>QGRtaW5AMTIz</password>
+   <query>select * from dbo.TD_EducationLoan_Amort_MMK</query>
+   <secureUserAccount>true</secureUserAccount>
+   <sheetName></sheetName>
+   <user>sa</user>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
